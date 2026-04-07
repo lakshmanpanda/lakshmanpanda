@@ -40,9 +40,8 @@ I'm currently looking for an **internship opportunity from May to November 2025*
 ---
 
 ## 📫 Let's Connect
-- 📧 Email: [22pt08@psgtech.ac.in](mailto:22pt08@psgtech.ac.in)  
+- 📧 Email: [lakshmanchedde@gmail.com](mailto:lakshmanchedde@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/lakslakshman-c-020a06254](https://www.linkedin.com/in/lakslakshman-c-020a06254/)  
-- 💻 GitHub: [@lakshmanpanda](https://github.com/lakshmanpanda)
 
 ---
 
