@@ -1,8 +1,6 @@
 # Hi, I'm Lakshman Chedde
 I'm , a Theoretical Computer Science student at PSG College of Technology passionate about **software development**, **Backend & Platform Engineering**, **Applied AI Engineering**, and **Data Structures and Algorithms**. I enjoy building projects that bridge theory and practical systems.
 
-I'm currently looking for an **internship opportunity from May to June 2026** to contribute meaningfully to software engineering teams and real-world problems.
-
 ---
 
 ## 🔨 Tech Stack
